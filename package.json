@@ -14,7 +14,7 @@
     "webpack": "^4.35.0"
   },
   "devDependencies": {
-    "babel-core": "^6.26.3",
+    "@babel/core": "^7.4.5",
     "babel-loader": "^8.0.6",
     "cz-conventional-changelog": "2.1.0",
     "webpack-cli": "^3.3.4"
